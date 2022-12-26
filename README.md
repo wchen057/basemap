@@ -1,0 +1,2 @@
+# basemap
+For npm build
